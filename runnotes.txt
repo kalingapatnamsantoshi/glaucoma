@@ -1,0 +1,4 @@
+Install dependdencies: pip install -r requirements.txt
+python src/train_model.py
+model/glaucoma_model.h5
+streamlit run app.py
